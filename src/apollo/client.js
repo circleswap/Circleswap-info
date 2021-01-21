@@ -4,7 +4,7 @@ import { HttpLink } from 'apollo-link-http'
 
 export const client = new ApolloClient({
   link: new HttpLink({
-    uri: 'http://161.117.87.222:8000/subgraphs/name/Circleswap/swap',
+    uri: 'http://subgraph.circleswap.org/subgraphs/name/Circleswap/swap',
   }),
   cache: new InMemoryCache(),
   shouldBatch: true,

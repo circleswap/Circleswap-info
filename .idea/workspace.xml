@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cef7b79a-620b-4787-9bd6-27b2dc6558f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Theme/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Theme/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/apollo/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/apollo/client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/GlobalChart/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GlobalChart/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Search/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SideNav/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SideNav/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/GlobalPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/GlobalPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +54,7 @@
       <workItem from="1610956600935" duration="13000" />
       <workItem from="1610984430868" duration="2300000" />
       <workItem from="1610987249934" duration="12418000" />
-      <workItem from="1611110850094" duration="6742000" />
+      <workItem from="1611110850094" duration="8365000" />
     </task>
     <servers />
   </component>
