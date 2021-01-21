@@ -56,10 +56,10 @@ const theme = (darkMode, color) => ({
   primary5: darkMode ? '#153d6f70' : '#FDEAF1',
 
   // color text
-  primaryText1: darkMode ? '#6da8ff' : '30D683',
+  primaryText1: darkMode ? '#6CE0A6' : '#30D683',
 
   // secondary colors
-  secondary1: darkMode ? '#2172E5' : '#4FD8DE',
+  secondary1: darkMode ? '#6CE0A6' : '#4FD8DE',
   secondary2: darkMode ? '#17000b26' : '#F6DDE8',
   secondary3: darkMode ? '#17000b26' : '#FDEAF1',
 
@@ -70,10 +70,10 @@ const theme = (darkMode, color) => ({
   green1: '#27AE60',
   yellow1: '#FFE270',
   yellow2: '#F3841E',
-  link: 'rgb(33, 114, 229)',
+  link: '#30D683',
   blue: '2f80ed',
 
-  background: darkMode ? 'black' : `radial-gradient(50% 50% at 50% 50%, #4FD8DE 30 0%, #fff 0%)`
+  background: darkMode ? 'black' : `radial-gradient(50% 50% at 50% 50%, #30D683 30 0%, #fff 0%)`
 })
 
 const TextWrapper = styled(Text)`

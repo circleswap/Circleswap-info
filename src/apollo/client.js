@@ -28,7 +28,7 @@ export const v1Client = new ApolloClient({
 
 export const blockClient = new ApolloClient({
   link: new HttpLink({
-    uri: 'http://161.117.87.222:8000/subgraphs/name/blocks-heco',
+    uri: 'https://graph.mdex.com/subgraphs/name/mdex-heco-blocks',
   }),
   cache: new InMemoryCache(),
 })
