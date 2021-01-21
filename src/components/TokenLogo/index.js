@@ -57,7 +57,7 @@ export default function TokenLogo({ address, header = false, size = '24px', ...r
     )
   }
 
-  let path = `https://raw.githubusercontent.com/Uniscam/token-icons/master/heco-mainnet/${
+  let path = `https://circle.zixuan2018.cn/heco-mainnet/${
     address.toLowerCase()
   }.png`
 

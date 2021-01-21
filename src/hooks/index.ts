@@ -7,7 +7,7 @@ import copy from 'copy-to-clipboard'
 export function useColor(tokenAddress, token) {
   const [color, setColor] = useState('#2172E5')
   if (tokenAddress) {
-    const path = `https://raw.githubusercontent.com/Uniscam/token-icons/master/heco-mainnet/${
+    const path = `https://circle.zixuan2018.cn/heco-mainnet/${
       tokenAddress.toLowerCase()
     }.png`
     if (path) {
